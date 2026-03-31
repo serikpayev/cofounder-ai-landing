@@ -523,7 +523,7 @@ h2 .accent { color: var(--blue-mid); }
   box-shadow: 0 4px 20px rgba(0,0,0,0.06);
 }
 
-.pain-icon { font-size: 22px; flex-shrink: 0; margin-top: 1px; }
+.pain-icon { font-size: 22px; flex-shrink: 0; margin-top: 2px; color: var(--red); display: flex; align-items: center; }
 
 .pain-title {
   font-size: 15px;
@@ -1031,7 +1031,7 @@ tbody tr:hover td.hl { background: #DBEAFE; }
   box-shadow: 0 6px 24px rgba(27,58,140,0.08);
 }
 
-.barr-emoji { font-size: 28px; margin-bottom: 20px; display: block; }
+.barr-emoji { font-size: 28px; margin-bottom: 20px; display: flex; align-items: center; color: var(--blue-mid); }
 
 .barr-q {
   font-size: 15px;
