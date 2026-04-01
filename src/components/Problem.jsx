@@ -14,19 +14,19 @@ export default function Problem() {
               <div className="funnel-title">Стандартная воронка стоматологии</div>
               <div className="funnel-v2">
                 <div className="fv-step">
-                  <div className="fv-meta"><span className="fv-lbl">Написали в WhatsApp</span><span className="fv-num bad">100 <span className="fv-pct">100%</span></span></div>
+                  <div className="fv-meta"><span className="fv-lbl">Написали в WhatsApp</span><span className="fv-num bad">100%</span></div>
                   <div className="fv-bar-wrap"><div className="fv-bar bad" data-w="100"></div></div>
                 </div>
                 <div className="fv-step">
-                  <div className="fv-meta"><span className="fv-lbl">Получили ответ быстро</span><span className="fv-num bad">35 <span className="fv-pct">35%</span></span></div>
+                  <div className="fv-meta"><span className="fv-lbl">Получили ответ быстро</span><span className="fv-num bad">35%</span></div>
                   <div className="fv-bar-wrap"><div className="fv-bar bad" data-w="35"></div></div>
                 </div>
                 <div className="fv-step">
-                  <div className="fv-meta"><span className="fv-lbl">Записались на прием</span><span className="fv-num bad">15 <span className="fv-pct">15%</span></span></div>
+                  <div className="fv-meta"><span className="fv-lbl">Записались на прием</span><span className="fv-num bad">15%</span></div>
                   <div className="fv-bar-wrap"><div className="fv-bar bad" data-w="15"></div></div>
                 </div>
                 <div className="fv-step">
-                  <div className="fv-meta"><span className="fv-lbl">Пришли в клинику</span><span className="fv-num ok">10 <span className="fv-pct">10%</span></span></div>
+                  <div className="fv-meta"><span className="fv-lbl">Пришли в клинику</span><span className="fv-num ok">10%</span></div>
                   <div className="fv-bar-wrap"><div className="fv-bar ok" data-w="10"></div></div>
                 </div>
               </div>
