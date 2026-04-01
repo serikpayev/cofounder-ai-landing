@@ -12,7 +12,7 @@ import FinalCta from './components/FinalCta';
 import Footer from './components/Footer';
 
 function runFunnels() {
-  document.querySelectorAll('.funnel-fill').forEach(b => {
+  document.querySelectorAll('.funnel-fill, .fv-bar').forEach(b => {
     b.style.width = b.dataset.w + '%';
   });
 }
