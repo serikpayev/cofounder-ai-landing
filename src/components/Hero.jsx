@@ -8,7 +8,7 @@ export default function Hero() {
       <div className="hero-inner">
         <div className="fade">
           <div className="hero-badge">ИИ-партнер для стоматологии</div>
-          <h1>Заполним ваши кресла<br />на <span className="accent">40%</span><br />без новых людей</h1>
+          <h1>Заполним ваши кресла<br />на <span className="accent">90%</span> за 2 месяца<br />пока вы лечите пациентов</h1>
           <p className="hero-sub">
             Берем лида из рекламы и сами доводим до кресла. <strong>ИИ отвечает за 5 секунд</strong> в любое время суток, снимает возражения и записывает на прием. Вы просто принимаете пациентов.
           </p>
