@@ -6,9 +6,9 @@ export default function Values() {
         <h2>Цифры которые меняют<br /><span className="accent">экономику клиники</span></h2>
         <div className="values-grid" style={{ marginTop: '56px' }}>
           <div className="val-card fade">
-            <div className="val-big">x3 <span className="val-unit">конверсия</span></div>
-            <div className="val-title">Из тех же лидов - в три раза больше пациентов</div>
-            <div className="val-desc">Стандартная конверсия из заявки в прием - 10-15%. Наша система доводит до 40-60%. Вы не тратите больше на рекламу - просто перестаете терять тех кто уже написал.</div>
+            <div className="val-big">x2 <span className="val-unit">конверсия</span></div>
+            <div className="val-title">При тех же затратах на маркетинг без раздувания ФОТ</div>
+            <div className="val-desc">Стандартная конверсия из заявки в прием - 10-15%. Наша система доводит до 40-60%. Вы не тратите больше на рекламу и не нанимаете новых людей - просто перестаете терять тех кто уже написал.</div>
           </div>
           <div className="val-card fade d1">
             <div className="val-big">5 <span className="val-unit">секунд</span></div>

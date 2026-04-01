@@ -16,7 +16,7 @@ export default function HowItWorks() {
           <div className="step-n">02</div>
           <div className="step-title">Отвечаем за 5 секунд 24/7 и закрываем все возражения</div>
           <div className="step-desc">Каждый лид получает ответ в WhatsApp или Instagram мгновенно - в 2 ночи, в воскресенье, в праздник. ИИ снимает страх боли, возражения по цене и ведет к записи без скидок и давления.</div>
-          <div className="step-tag">Конверсия x3</div>
+          <div className="step-tag">Конверсия x2</div>
         </div>
         <div className="step-card fade d2">
           <div className="step-n">03</div>
