@@ -679,7 +679,7 @@ h2 .accent { color: var(--blue-mid); }
   padding: 40px 28px;
   background: white;
   border-right: 1px solid var(--border);
-  transition: all 0.5s ease;
+  transition: background 0.8s cubic-bezier(0.4, 0, 0.2, 1);
   position: relative;
 }
 
@@ -689,6 +689,13 @@ h2 .accent { color: var(--blue-mid); }
 .step-card:hover .step-title { color: white; }
 .step-card:hover .step-desc { color: rgba(255,255,255,0.65); }
 .step-card:hover .step-tag { background: rgba(255,255,255,0.15); color: white; }
+
+.step-card .step-n,
+.step-card .step-title,
+.step-card .step-desc,
+.step-card .step-tag {
+  transition: color 0.8s cubic-bezier(0.4, 0, 0.2, 1), background 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+}
 
 .step-n {
   font-family: 'Russo One', sans-serif;
