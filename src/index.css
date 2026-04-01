@@ -908,14 +908,17 @@ h2 .accent { color: var(--blue-mid); }
 .aha-metric-label {
   font-size: 13px;
   color: rgba(255,255,255,0.65);
+  flex: 1;
 }
 
 .aha-metric-val {
   font-family: 'Russo One', sans-serif;
-  font-size: 24px;
+  font-size: 20px;
   letter-spacing: 0.02em;
   text-align: right;
   white-space: nowrap;
+  flex-shrink: 0;
+  margin-left: 12px;
 }
 
 .aha-metric-val.loss { color: #FCA5A5; }
@@ -1377,5 +1380,22 @@ footer {
 
   .recog-cta {
     padding: 36px 24px;
+  }
+
+  .aha-metric-val {
+    font-size: 15px;
+  }
+
+  .aha-metric-label {
+    font-size: 12px;
+  }
+
+  .aha-metrics {
+    padding: 16px;
+    gap: 10px;
+  }
+
+  .aha-metric-row {
+    padding: 10px 14px;
   }
 }
