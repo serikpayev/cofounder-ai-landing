@@ -914,6 +914,8 @@ h2 .accent { color: var(--blue-mid); }
   font-family: 'Russo One', sans-serif;
   font-size: 24px;
   letter-spacing: 0.02em;
+  text-align: right;
+  white-space: nowrap;
 }
 
 .aha-metric-val.loss { color: #FCA5A5; }
