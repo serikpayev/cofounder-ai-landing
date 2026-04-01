@@ -10,11 +10,10 @@ export default function Hero() {
           <div className="hero-badge">ИИ-партнер для стоматологии</div>
           <h1>Заполним ваши кресла<br />на <span className="accent">90%</span> за 2 месяца<br />пока вы лечите пациентов</h1>
           <p className="hero-sub">
-            ИИ-сотрудники берут на себя маркетинг и продажи - и масштабируют вашу клинику на автопилоте
+            ИИ-сотрудники берут на себя маркетинг и продажи -<br />и масштабируют вашу клинику на автопилоте
           </p>
           <div className="hero-btns">
             <a href="#cta" className="btn-primary">Бесплатный аудит воронки</a>
-            <a href="#aha" className="btn-outline">Посмотреть демо</a>
           </div>
           <div className="hero-stats">
             <div className="stat">
